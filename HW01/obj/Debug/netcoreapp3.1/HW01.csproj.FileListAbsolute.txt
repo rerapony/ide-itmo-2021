@@ -1,0 +1,12 @@
+D:\Games\ide-itmo-2021\HW01\obj\Debug\netcoreapp3.1\HW01.AssemblyInfoInputs.cache
+D:\Games\ide-itmo-2021\HW01\obj\Debug\netcoreapp3.1\HW01.AssemblyInfo.cs
+D:\Games\ide-itmo-2021\HW01\obj\Debug\netcoreapp3.1\HW01.csproj.CoreCompileInputs.cache
+D:\Games\ide-itmo-2021\HW01\bin\Debug\netcoreapp3.1\HW01.exe
+D:\Games\ide-itmo-2021\HW01\bin\Debug\netcoreapp3.1\HW01.deps.json
+D:\Games\ide-itmo-2021\HW01\bin\Debug\netcoreapp3.1\HW01.runtimeconfig.json
+D:\Games\ide-itmo-2021\HW01\bin\Debug\netcoreapp3.1\HW01.runtimeconfig.dev.json
+D:\Games\ide-itmo-2021\HW01\bin\Debug\netcoreapp3.1\HW01.dll
+D:\Games\ide-itmo-2021\HW01\bin\Debug\netcoreapp3.1\HW01.pdb
+D:\Games\ide-itmo-2021\HW01\obj\Debug\netcoreapp3.1\HW01.dll
+D:\Games\ide-itmo-2021\HW01\obj\Debug\netcoreapp3.1\HW01.pdb
+D:\Games\ide-itmo-2021\HW01\obj\Debug\netcoreapp3.1\HW01.genruntimeconfig.cache
